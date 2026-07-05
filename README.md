@@ -7,6 +7,15 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791)
 ![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen)
 
+**Estrutura de pastas do projeto** 
+<img width="359" height="713" alt="estrutura_de_pastas" src="https://github.com/user-attachments/assets/ac292ce0-367a-4a40-9a63-155bc10625d3" />
+
+**Pipeline em execução (Logs)**
+<img width="1017" height="235" alt="pipeline_em_execucao" src="https://github.com/user-attachments/assets/96e076d5-8050-4224-9e87-4defd95e5e90" />
+
+**Testes realizados (Pytest)**
+<img width="1167" height="493" alt="teste_python" src="https://github.com/user-attachments/assets/bd1b2141-6662-4e9a-9926-8534646eac56" />
+
 ---
 
 ## 📌 Sobre o projeto
@@ -14,6 +23,9 @@
 Este projeto simula um cenário comum no dia a dia de quem trabalha com dados: receber um arquivo CSV bruto, cheio de inconsistências, e transformá-lo em uma base confiável, pronta para análise.
 
 O pipeline segue o modelo clássico de **ETL (Extract, Transform, Load)**, com cada etapa isolada em seu próprio módulo, tratamento de erros específico e logging em todas as fases — do jeito que um pipeline de produção deveria ser.
+
+
+
 
 ## ✨ O que o pipeline faz
 
