@@ -1,0 +1,35 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# --- Testes ---
+.pytest_cache/
+.coverage
+htmlcov/
+
+# --- Ambiente virtual ---
+venv/
+.venv/
+env/
+
+# --- Variáveis de ambiente / credenciais ---
+.env
+config.py
+
+# --- Logs ---
+logs/*.log
+
+# --- Dados ---
+data/*
+!data/.gitkeep
+
+# --- Saídas / arquivos temporários ---
+saida.txt
+
+# --- Editor / SO ---
+.vscode/
+.idea/
+.DS_Store
