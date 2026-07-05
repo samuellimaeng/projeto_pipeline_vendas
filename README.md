@@ -63,8 +63,8 @@ pipeline_vendas/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPO.git
-   cd NOME_DO_REPO
+   git clone https://github.com/samuellimaeng/projeto_pipeline_vendas.git
+   cd projeto_pipeline_vendas
    ```
 
 2. Instale as dependências:
