@@ -11,7 +11,6 @@
 **Estrutura de pastas do projeto** 
 
 <img width="359" height="713" alt="estrutura_de_pastas" src="https://github.com/user-attachments/assets/ac292ce0-367a-4a40-9a63-155bc10625d3" />
-<img width="640" height="1150" alt="etl_flow_vertical" src="https://github.com/user-attachments/assets/52766a4b-f31e-4c08-90f9-5b21a23ac109" />
 
 ---
 
